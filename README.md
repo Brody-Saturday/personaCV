@@ -1,2 +1,2 @@
-# personaCV
+# personalCV
 Personal Information
